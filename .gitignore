@@ -43,6 +43,9 @@ yarn-error.log*
 .npm
 .yarn-integrity
 
+# Agentic Document Scribe node_modules
+agentic-document-scribe/node_modules/
+
 # IDE and editors
 .vscode/
 .idea/
@@ -83,6 +86,3 @@ temp_uploads/
 *.pyc
 *.pyo
 *.pyd
-
-# Exclude embedded git repositories
-agentic-document-scribe/
