@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+python-docx
+typer[all]
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+passlib[bcrypt]
+python-jose[cryptography]
+email-validator
+pydantic[email]
+
